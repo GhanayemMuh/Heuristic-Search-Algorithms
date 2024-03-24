@@ -1,0 +1,1 @@
+To run the Agents all you have to do is open the ipynb file using jupiter notebook or google collab, upload the Algorithms.py and DragonBallEnv.py file to the session and follow the instructions in the notebook step by step.
